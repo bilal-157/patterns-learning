@@ -3,11 +3,11 @@ SLIDING WINDOW PATTERN :
 📘 Phase 1: Easy – Build the Basics (Fixed-size)
 
 #	Problem	LeetCode #	Goal
-1	Maximum Average Subarray I	643	Learn basic fixed-size window
-2	Number of Subarrays of Size K and Average ≥ Threshold	1343	Apply condition with fixed-size
-3	Find All Anagrams in a String	438	Frequency counting inside a window
-4	Permutation in String	567	Detect permutation using sliding window
-5	Substrings of Size Three with Distinct Characters	1876	Very basic logic in window
+1		643	
+2		1343
+3	  438	
+4		567
+5		1876	
 
 ✅ Goal: Understand window size, sliding logic, and character frequency.
 
