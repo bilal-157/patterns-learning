@@ -3,11 +3,11 @@ SLIDING WINDOW PATTERN :
 📘 Phase 1: Easy – Build the Basics (Fixed-size)
 
 #	Problem	LeetCode #	Goal
-1		643	
-2		1343
-3	  438	
-4		567
-5		1876	
+(1-643)	
+(-1343)
+(3-438)
+(4-567)
+(5-1876)	
 
 ✅ Goal: Understand window size, sliding logic, and character frequency.
 
